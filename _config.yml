@@ -1,0 +1,23 @@
+name: GoodDeservesGreat
+favicon: null
+layout_spectrum: 0.358952030306682
+typography_spectrum: 0.8181645029690117
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.327466988703236
+  lightness: 0.4924435378052294
+  saturation: 0.4870489090681076
+  rhythmicContrast: 0.8991007353179157
+purpose: []
