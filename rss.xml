@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[GoodDeservesGreat]]></title>
+        <description><![CDATA[GoodDeservesGreat]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 19 Nov 2015 04:01:18 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Good Work Deserves Great Design]]></title>
+            <description><![CDATA[<article><h1>Good Work Deserves Great Design</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a4367d58-2c73-4112-8714-e2322864e268.png"></article>]]></description>
+            <link>undefinedgood-work-deserves-great-design/index.html</link>
+            <guid isPermaLink="false">5db13762-ef7c-4d78-8a58-cba70189ae98</guid>
+            <pubDate>Thu, 19 Nov 2015 04:00:12 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
