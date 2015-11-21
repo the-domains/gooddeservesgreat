@@ -1,6 +1,6 @@
 name: GoodDeservesGreat
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0
 typography_spectrum: 0.8181645029690117
 title: Good Work Deserves Great Design
 cta:
@@ -23,7 +23,7 @@ color:
     - '#a3acab'
     - '#c5c7c6'
   brandStrength: 0.75
-  lightness: 0.4924435378052294
-  saturation: 0.4870489090681076
-  rhythmicContrast: 0.8991007353179157
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 1
 purpose: []
