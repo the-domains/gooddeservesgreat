@@ -17,8 +17,8 @@ keywords:
   - '743'
   - radcliffe
 description: good work deserves great design
-datePublished: '2015-11-21T12:43:02.210Z'
-dateModified: '2015-11-21T12:42:49.713Z'
+datePublished: '2015-11-21T12:50:03.949Z'
+dateModified: '2015-11-21T12:49:52.114Z'
 author:
   - name: Noumenon Designs
     url: 'https://www.youtube.com/channel/UCDxT_CqXMV9AviwXOywoGDQ'
@@ -36,14 +36,14 @@ app_links:
   - url: 'https://www.youtube.com/watch?v=7oyjprJUKkQ&feature=applinks'
     type: web
 title: gooddeserves_prelim
+sourcePath: _posts/2015-11-21-gooddeserves_prelim.md
+published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-sourcePath: _posts/2015-11-21-gooddeserves_prelim.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
